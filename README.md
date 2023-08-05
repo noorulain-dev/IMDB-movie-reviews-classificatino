@@ -1,4 +1,4 @@
-# IMDB-movie-reviews-classificatino
+# IMDB-movie-reviews-classification
 Fine-tuning three different pre-trained models, namely Small Bert H-526 A-4, Electra base, and Small_Bert H-768_A-12, on the IMDB movie review dataset for sentiment analysis
 The goal was to fine-tune three different pre-trained models, namely Small Bert H-526 A-4, Electra base, and Small_Bert H-768_A-12, on the IMDB movie review dataset for sentiment analysis. The pre-processing steps for all three models were similar, including tokenization, padding, and creating training and testing datasets.
 
